@@ -16,9 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Hello it's me Mek</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+           My first test website using Vite=React
           </p>
         </div>
         <button
